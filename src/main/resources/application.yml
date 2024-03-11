@@ -7,7 +7,7 @@ spring:
 server:
   servlet:
     context-path: /api
-  port: 8181
+  port: 8080
 
 logging:
   level:
